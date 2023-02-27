@@ -1,2 +1,2 @@
 My first readme
-Slowly but steady
+slowly but steady
